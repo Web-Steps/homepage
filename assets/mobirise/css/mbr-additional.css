@@ -1970,11 +1970,35 @@ body {
   color: #ffffff;
 }
 .cid-qBn6Y6RfC3 .section-text DIV {
-  color: #ffffff;
+  color: #12ead2;
   text-align: center;
 }
 .cid-qBn6Y6RfC3 .section-text FONT {
   color: #12ead2;
+}
+.cid-qBPbE2Y6Eb {
+  background: #000000;
+  background: linear-gradient(45deg, #000000, #12ead2);
+}
+.cid-qBPbE2Y6Eb .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qBPbE2Y6Eb .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qBPbE2Y6Eb figcaption {
+  position: relative;
+}
+.cid-qBPbE2Y6Eb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qBPbE2Y6Eb .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qBn715oALg {
   padding-top: 30px;
