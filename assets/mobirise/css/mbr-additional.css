@@ -1943,8 +1943,19 @@ body {
 .cid-qBn6QOVGM1 H2 {
   color: #12ead2;
 }
-.cid-qBn6Y6RfC3 {
+.cid-qBZhuiUuqk {
   padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qBZhuiUuqk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qBZhuiUuqk H2 {
+  color: #12ead2;
+}
+.cid-qBn6Y6RfC3 {
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #000000;
 }
