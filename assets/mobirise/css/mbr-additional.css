@@ -1882,8 +1882,8 @@ body {
   color: #f7ed4a;
 }
 .cid-qBn6QOVGM1 {
-  padding-top: 105px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/img48-1920x1080.jpg");
   position: relative;
 }
@@ -2148,7 +2148,7 @@ body {
 }
 .cid-qBn8sj82O6 {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/bg-web-2000x705.jpg");
 }
 @media (max-width: 767px) {
@@ -5566,13 +5566,16 @@ body {
   color: #12ead2;
 }
 .cid-qBrr4SR1F6 DIV {
-  color: #787324;
+  color: #232323;
 }
 .cid-qBrr4SR1F6 SPAN {
   color: #ffffff;
 }
 .cid-qBrr4SR1F6 B {
   color: #879a9f;
+}
+.cid-qBrr4SR1F6 H3 {
+  color: #000000;
 }
 .cid-qBn8EZsnbV {
   padding-top: 45px;
@@ -6248,7 +6251,7 @@ body {
 .cid-qBn7hwpI11 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(45deg, #12ead2, #232323);
+  background-image: url("../../../assets/images/web-game-2000x1061.jpg");
 }
 .cid-qBn7hwpI11 .list-group-item {
   padding: .75rem 3.25rem;
@@ -6302,6 +6305,12 @@ body {
 }
 .cid-qBn7hwpI11 UL {
   text-align: center;
+}
+.cid-qCpJvWiDbt {
+  background-image: url("../../../assets/images/header4-2000x1414.jpg");
+}
+.cid-qCpJvWiDbt .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
 .cid-qBn8EZsnbV {
   padding-top: 30px;
@@ -6826,6 +6835,31 @@ body {
 .cid-qBrvRTYduW H2 {
   color: #12ead2;
 }
+.cid-qCq0yoJFLi {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background: #12ead2;
+  background: linear-gradient(45deg, #12ead2, #000000);
+}
+.cid-qCq0yoJFLi .image-block {
+  margin: auto;
+}
+.cid-qCq0yoJFLi figcaption {
+  position: relative;
+}
+.cid-qCq0yoJFLi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qCq0yoJFLi .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qCq0yoJFLi DIV {
+  color: #ff3366;
+}
 .cid-qBrwtSaZZ6 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -6852,28 +6886,6 @@ body {
 }
 .cid-qBrwtSaZZ6 .section-text DIV {
   color: #ffffff;
-}
-.cid-qBrwSUhe1l {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background: #000000;
-  background: linear-gradient(0deg, #000000, #000000);
-}
-.cid-qBrwSUhe1l .image-block {
-  margin: auto;
-}
-.cid-qBrwSUhe1l figcaption {
-  position: relative;
-}
-.cid-qBrwSUhe1l figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qBrwSUhe1l .image-block {
-    width: 100% !important;
-  }
 }
 .cid-qBrxkGT9Jq {
   padding-top: 60px;
