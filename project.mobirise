@@ -723,7 +723,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/get-started-1660x462.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -737,7 +737,7 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"index.html#toggle2-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>interessiert?</a>",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.6",
                 "overlayColor": "#232323"
               },
               {
@@ -778,7 +778,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-1-2000x1194.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
