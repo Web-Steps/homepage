@@ -38,15 +38,18 @@
     },
     "versionFirst": "4.3.5",
     "uniqCompNum": 169,
-    "versionPublish": "4.3.5",
+    "versionPublish": "4.5.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/zuschnitt-1-128x48.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": "http://www.web-steps.de",
+    "sitemapSwitcherAuto": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -722,7 +725,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/get-started-1660x462.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bg1-1920x1050.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
@@ -737,7 +740,7 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"index.html#toggle2-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>interessiert?</a>",
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0",
                 "overlayColor": "#232323"
               },
               {
@@ -830,7 +833,7 @@
               "color": "#767676"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676",
+              "color": "#12ead2",
               "font-weight": "300"
             },
             ".toggle-content": {
@@ -900,7 +903,10 @@
               }
             },
             "H2": {
-              "color": "#12ead2"
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           },
           "_name": "toggle2",
