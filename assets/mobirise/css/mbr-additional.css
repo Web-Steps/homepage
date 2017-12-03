@@ -1920,7 +1920,7 @@ body {
   color: #767676;
 }
 .cid-qBn6QOVGM1 .mbr-section-subtitle {
-  color: #12ead2;
+  color: #000000;
   font-weight: 300;
 }
 .cid-qBn6QOVGM1 .toggle-content {
@@ -1973,6 +1973,9 @@ body {
   color: #000000;
 }
 .cid-qBn6QOVGM1 DIV {
+  color: #12ead2;
+}
+.cid-qBn6QOVGM1 .mbr-section-subtitle DIV {
   color: #000000;
 }
 .cid-qBZhuiUuqk {
